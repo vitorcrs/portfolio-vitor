@@ -1,4 +1,4 @@
-# 👨‍💻 Vítor Cesar
+# Vítor Cesar
 
 ### QA Júnior | Gestão da Tecnologia da Informação
 
