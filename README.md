@@ -1,20 +1,20 @@
-# 👨‍💻 Vítor Cesar
+# 👨‍💻 Vitor César
 
-### 🎯 QA Júnior | Gestão da Tecnologia da Informação
+### QA Júnior | Gestão da Tecnologia da Informação
 
 <p align="left">
-  <img src="https://img.shields.io/badge/QA-Quality%20Assurance-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Básico-yellow?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Básico-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/QA-Quality%20Assurance-2F80ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Básico-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Básico-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
-Sou **formado em Gestão da Tecnologia da Informação** e estou construindo minha carreira na área de tecnologia, com foco em **Qualidade de Software (QA)**.
+Sou formado em **Gestão da Tecnologia da Informação** e estou construindo minha carreira na área de tecnologia, com foco em **Qualidade de Software (QA)**.
 
 Tenho conhecimentos em **testes funcionais, testes de regressão, criação e execução de casos de teste, identificação e documentação de bugs**, além de conhecimentos em **SQL, Python, Jira e metodologias ágeis (Kanban)**.
 
@@ -24,52 +24,43 @@ Busco uma oportunidade como **QA Júnior**, onde possa aplicar meus conhecimento
 
 ---
 
-## 🧪 Qualidade de Software
+## Qualidade de Software
 
-| Área | Conhecimentos |
-|---|---|
-| 🔍 **Testes** | Testes Funcionais e de Regressão |
-| 📝 **Documentação** | Casos de Teste, Cenários e Bug Reports |
-| 🐛 **Bugs** | Identificação, análise e documentação de inconsistências |
-| 📋 **QA** | Validação de funcionalidades e resultados |
-| 🔄 **Metodologias** | Kanban e conceitos de Metodologias Ágeis |
-| 🗄️ **Banco de Dados** | SQL / MySQL |
+- Testes Funcionais
+- Testes de Regressão
+- Casos de Teste
+- Cenários de Teste
+- Bug Reports
+- Identificação de erros e inconsistências
+- Análise de requisitos
+- Documentação de testes
+- Validação de funcionalidades
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Python-Básico-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MySQL-Básico-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Excel-Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Office-Avançado-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Python-Básico-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Básico-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-Avançado-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-### 📌 Outros conhecimentos
+**Metodologias:** Kanban e conceitos de Metodologias Ágeis
 
-- 🧠 Inteligência Artificial
-- 📊 Análise e organização de dados
-- 🔄 Metodologias Ágeis
-- 🗂️ Documentação de testes
-- 💻 Pacote Office
+**Outros conhecimentos:** Inteligência Artificial, análise e organização de dados e documentação de testes.
 
 ---
 
-# 📂 Meus Projetos
+## Projetos
 
-## 🛒 Projeto 01 — Testes de E-commerce
+### Projeto 01 — Testes de E-commerce
 
 Projeto desenvolvido para aplicar conceitos de **Qualidade de Software e testes funcionais** em um sistema de e-commerce.
 
-### 🔎 Práticas utilizadas
+**Práticas utilizadas:**
 
 - Criação de casos de teste
 - Definição de cenários
@@ -77,17 +68,16 @@ Projeto desenvolvido para aplicar conceitos de **Qualidade de Software e testes 
 - Validação de funcionalidades
 - Análise dos resultados
 
-### 📁 Acessar projeto
-
-👉 [**Ver Projeto 01 — Testes de E-commerce**](./Projeto-01)
+**Acessar projeto:**  
+[Ver Projeto 01 →](./Projeto-01)
 
 ---
 
-## 🏋️ Projeto 02 — Sistema de Academia
+### Projeto 02 — Sistema de Academia
 
 Projeto focado na elaboração de um **plano de testes** para validação das funcionalidades de um sistema de academia.
 
-### 🔎 Práticas utilizadas
+**Práticas utilizadas:**
 
 - Elaboração de plano de testes
 - Criação de cenários
@@ -95,68 +85,89 @@ Projeto focado na elaboração de um **plano de testes** para validação das fu
 - Validação de funcionalidades
 - Documentação dos testes
 
-### 📁 Acessar projeto
-
-👉 [**Ver Projeto 02 — Sistema de Academia**](./Projeto-02)
+**Acessar projeto:**  
+[Ver Projeto 02 →](./Projeto-02)
 
 ---
 
-## 🐛 Projeto 03 — Relatório de Bugs
+### Projeto 03 — Relatório de Bugs
 
 Projeto voltado para a **identificação e documentação de defeitos** encontrados durante a execução de testes.
 
-### 🔎 Práticas utilizadas
+**Práticas utilizadas:**
 
 - Identificação de bugs
 - Descrição dos problemas
 - Registro de evidências
-- Resultado esperado × resultado obtido
+- Resultado esperado x resultado obtido
 - Documentação dos defeitos encontrados
 
-### 📁 Acessar projeto
-
-👉 [**Ver Projeto 03 — Relatório de Bugs**](./Projeto-03)
-
----
-
-# 🎓 Formação
-
-### 🎓 Gestão da Tecnologia da Informação
-
-**Formação concluída**
+**Acessar projeto:**  
+[Ver Projeto 03 →](./Projeto-03)
 
 ---
 
-# 📚 Cursos & Aperfeiçoamento
+## Formação
 
-### 🔄 Em andamento
+### Gestão da Tecnologia da Informação
 
-🧪 **Qualidade de Software — EBAC**
-
-🤖 **Inteligência Artificial — EBAC**
-
-📊 **Excel com IA e Claude — Santander Open Academy / DIO**
-
-### ✅ Concluídos
-
-💻 **Pacote Office Avançado**
+Formação concluída.
 
 ---
 
-# 🚀 Objetivo Profissional
+## Cursos
 
-Meu objetivo é iniciar minha trajetória profissional como **QA Júnior**, colocando em prática meus conhecimentos em **testes de software, qualidade, análise de erros e documentação**.
+### Em andamento
 
-Busco continuar evoluindo tecnicamente, aprender novas ferramentas e contribuir com equipes que valorizem **qualidade, colaboração e melhoria contínua**.
+**Qualidade de Software — EBAC**
+
+**Inteligência Artificial — EBAC**
+
+**Excel com IA e Claude — Santander Open Academy / DIO**
+
+### Concluídos
+
+**Pacote Office Avançado**
 
 ---
 
-# 📊 Atualmente estudando
+## Objetivo Profissional
 
-```text
-🧪 Qualidade de Software
-🤖 Inteligência Artificial
-📊 Excel + Inteligência Artificial
-🐍 Python
-🗄️ SQL / MySQL
-🔄 Metodologias Ágeis
+Busco uma oportunidade como **QA Júnior**, onde possa aplicar meus conhecimentos em testes e qualidade de software, desenvolver novas habilidades e contribuir para a entrega de sistemas confiáveis e de qualidade.
+
+Tenho interesse em continuar evoluindo tecnicamente, aprender novas ferramentas e crescer profissionalmente na área de tecnologia.
+
+---
+
+## Atualmente estudando
+
+- Qualidade de Software
+- Inteligência Artificial
+- Excel com Inteligência Artificial
+- Python
+- SQL / MySQL
+- Metodologias Ágeis
+
+---
+
+## Contato
+
+<p align="left">
+  <a href="https://github.com/vitorcrs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Adicione seu LinkedIn aqui quando quiser
+
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+-->
+
+---
+
+<p align="center">
+  <i>Este portfólio está em constante evolução.</i>
+</p>
