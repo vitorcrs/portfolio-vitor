@@ -22,7 +22,42 @@ Usuário previamente cadastrado no sistema.
 
 **Resultado esperado:**
 
-Usuário é autenticado com sucesso e direcionado para a página inicial.
+Usuário autenticado com sucesso.
+
+**Resultado obtido:**
+
+Usuário foi autenticado com sucesso e direcionado para a página de produtos.
+
+**Status:**
+
+Passou.
+
+**Evidência:**
+
+A adicionar após a execução do teste.
+
+
+### CT-02 — Login com senha inválida
+
+**Pré-condições**
+
+Usuário previamente cadastrado no sistema. 
+
+**Dados de teste:**
+
+- Usuário: usuarioteste@email.com
+- Senha: Senha@321
+
+
+Passos:
+1. Acessar a página de login.
+2. Informar usuário válido.
+3. Informar senha inválida.
+4. Clicar em "Entrar".
+
+**Resultado esperado:**
+
+O sistema deve impedir a autenticação e exibir uma mensagem informando que as credenciais são inválidas.
 
 **Resultado obtido:**
 
@@ -35,11 +70,3 @@ Aguardando execução.
 **Evidência:**
 
 A adicionar após a execução do teste.
-### CT-02 - Login com senha inválida
-**Passos**
-1. Informar usuário válido
-2. Informar senha incorreta
-3. Clicar em "Entrar"
-
-**Resultado Esperado:**
-Mensagem de erro exibido.
