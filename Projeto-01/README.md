@@ -45,7 +45,7 @@ Usuário previamente cadastrado no sistema.
 
 **Dados de teste:**
 
-- Usuário: usuarioteste@email.com
+- Usuário: usuario.teste@email.com
 - Senha: Senha@321
 
 
