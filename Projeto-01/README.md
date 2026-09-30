@@ -30,7 +30,7 @@ Usuário foi autenticado com sucesso e direcionado para a página de produtos.
 
 **Status:**
 
-Passou.
+Aprovado.
 
 **Evidência:**
 
@@ -38,7 +38,7 @@ Passou.
 
 ### CT-02 — Login com senha inválida
 
-**Pré-condições**
+**Pré-condições:**
 
 Usuário previamente cadastrado no sistema. 
 
@@ -48,7 +48,7 @@ Usuário previamente cadastrado no sistema.
 - Senha: Senha@321
 
 
-Passos:
+**Passos:**
 1. Acessar a página de login.
 2. Informar usuário válido.
 3. Informar senha inválida.
@@ -64,7 +64,7 @@ O sistema impediu o login e exibiu a mensagem: “Epic sadface: Username and pas
 
 **Status:**
 
-Passou.
+Aprovado.
 
 **Evidência:**
 
