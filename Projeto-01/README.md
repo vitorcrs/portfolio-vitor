@@ -34,7 +34,7 @@ Passou.
 
 **Evidência:**
 
-![CT-01 — Login com dados válidos](./evidencias/Projeto-01/evidencias/CT-01-login-valido.PNG)
+![CT-01 — Login com dados válidos](./evidencias/CT-01-login-valido.PNG)
 
 ### CT-02 — Login com senha inválida
 
