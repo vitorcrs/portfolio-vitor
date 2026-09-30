@@ -68,4 +68,4 @@ Passou.
 
 **Evidência:**
 
-A adicionar após a execução do teste.
+![CT-02 - Login com dados inválidos](./evidencias/CT-02-login-invalido.png)
