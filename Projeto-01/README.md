@@ -60,11 +60,11 @@ O sistema deve impedir a autenticação e exibir uma mensagem informando que as 
 
 **Resultado obtido:**
 
-A preencher após a execução do teste.
+O sistema impediu o login e exibiu a mensagem: “Epic sadface: Username and password do not match any user in this service”.
 
 **Status:**
 
-Aguardando execução.
+Passou.
 
 **Evidência:**
 
